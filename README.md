@@ -163,7 +163,8 @@ Gender is not the major factor of churning as ratio of Males and Females is same
 
 Customers paying high charges have churned the most i.e.1274, along with customers with fiber optic internet have also churned the most
 
-**➢ Churning factors are :**
+
+**** Churning factors are :****
 
 Young Customers
 
@@ -183,6 +184,7 @@ Most of the churned customers did not sign up for Online Security and tech suppo
 It a lot of customers had an issue with Fiber Optic . Up to 42% of the customers churned were using Fiber Optic as their Internet Services.
 
 **Recommendation:**
+
 The Company could try convincing customers to subscribe to One-Year and Two-Year contract. The contract are not favorable to customers as they tend to pay more monthly.
 
 Giving the discount to customers based on the some specific tasks is also good wat retaining them, specially those month-to-month contract.
