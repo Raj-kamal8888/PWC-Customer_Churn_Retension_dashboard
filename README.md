@@ -12,8 +12,6 @@ Data Modeling
 
 Data Analysis (DAX)
 
-Data Visualization (Dashboard)
-
 Insights
 
 Recommendation
