@@ -148,8 +148,8 @@ By tenure, 31% customers are subscribed to below 12 months, as a result there ar
 Most customers have Fiber optic internet for which they are paying high charges.
 
 73.5% of customers have been retained i.e. 5,174
-**
-**** Churn Customers :******
+
+**Churn Customers**
 
 1,869 customers have churned i.e. 26.5% , out of which 380 customers churned last month itself.
 
@@ -164,7 +164,7 @@ Gender is not the major factor of churning as ratio of Males and Females is same
 Customers paying high charges have churned the most i.e.1274, along with customers with fiber optic internet have also churned the most
 
 
-**** Churning factors are :****
+**Churning factors are:**
 
 Young Customers
 
