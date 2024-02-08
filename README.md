@@ -135,7 +135,7 @@ DIVIDE(CALCULATE(COUNT('01 Churn-Dataset'[TechSupport]), '01 Churn-Dataset'[Tech
 
 Data visualization for the data analysis (DAX) was done in Microsoft Power BI Desktop:
 
-https://app.powerbi.com/reportEmbed?reportId=2e8bc980-e595-49e8-b206-eae1299ad448&autoAuth=true&ctid=049e3382-8cdc-477b-9317-951b04689668
+
 
 Insights:
 
