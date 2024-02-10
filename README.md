@@ -1,5 +1,9 @@
 # PWC-Customer_Churn_Retension_dashboard
 
+I joined a virtual internship of PwC through forage, where my role was of Power BI Analyst. This is the 2nd BI task from the internship, objective was that the client wanted insights behind the churning customers.
+
+My first approach was to check the data & perform cleaning for better results & started my analysis on Power BI Desktop.
+
 **Table of Contents:**
 
 Problem Statement
@@ -23,8 +27,6 @@ The purpose of this task is to:
 Define proper KPI's
 
 Create a dashboard for the retention manager reflecting the KPI's
-
-Write a short email to him (the engagement partner) explaining your findings, and include suggestions as to what needs to be changed
 
 Customers who left within the last month
 
