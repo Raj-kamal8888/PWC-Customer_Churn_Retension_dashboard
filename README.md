@@ -48,6 +48,9 @@ The purpose of this task is to:
 
 And then dataset was cleaned and transformed, it was ready to the data modeled.
 
+![Customer Retention](https://github.com/Raj-kamal8888/PWC-Customer_Churn_Retension_dashboard/assets/111457714/64f8c065-8a21-4d1d-b5b3-dfc861e0e041)
+
+
 
 
 **Data Analysis (DAX):**
